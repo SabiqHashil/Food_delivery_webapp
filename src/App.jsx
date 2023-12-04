@@ -5,6 +5,7 @@ import "./Components/style.css";
 import Hero from "./Components/Hero";
 import Delivery from "./Components/Delivery";
 import Healthy from "./Components/Healthy";
+import ProductSlider from "./Components/ProductSlider";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <Delivery />
       <Healthy />
+      <ProductSlider />
     </>
   );
 }

@@ -35,3 +35,7 @@
 .healthy {
     background-color: var(--background);
 }
+
+.slider {
+    background-image: url('../assets/Images/pumpkin.jpg');
+}
