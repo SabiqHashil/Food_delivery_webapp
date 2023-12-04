@@ -27,6 +27,11 @@
     color: var(--text-color);
 }
 
-.delivery-process h2 {
+.delivery-process h2,
+.healthy h2 {
     color: var(--text-color);
+}
+
+.healthy {
+    background-color: var(--background);
 }
