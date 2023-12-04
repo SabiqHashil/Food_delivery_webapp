@@ -14,7 +14,7 @@ const Healthy = () => {
         It's Healthy Eating Made Easy
       </h2>
       <div className="container mt-4">
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
           <HProduct
             Image={Veg1}
             Image2={Turnip}
