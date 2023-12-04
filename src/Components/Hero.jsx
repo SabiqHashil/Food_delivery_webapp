@@ -30,13 +30,13 @@ const Hero = () => {
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
             <button
               type="button"
-              className="btn btn-warning btn-lg px-4 me-md-2"
+              className="btn btn-warning btn-lg px-4 me-md-2 rounded-0 "
             >
               Shop Your Veg
             </button>
             <button
               type="button"
-              className="btn btn-white btn-lg px-4"
+              className="btn btn-white btn-lg px-4 rounded-0"
             >
               Shop All Product
             </button>
