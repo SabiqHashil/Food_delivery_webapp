@@ -6,6 +6,7 @@ import Hero from "./Components/Hero";
 import Delivery from "./Components/Delivery";
 import Healthy from "./Components/Healthy";
 import ProductSlider from "./Components/ProductSlider";
+import Products from "./Components/Products";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Delivery />
       <Healthy />
       <ProductSlider />
+      <Products />
     </>
   );
 }
