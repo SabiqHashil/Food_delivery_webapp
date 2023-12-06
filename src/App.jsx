@@ -7,6 +7,7 @@ import Delivery from "./Components/Delivery";
 import Healthy from "./Components/Healthy";
 import ProductSlider from "./Components/ProductSlider";
 import Products from "./Components/Products";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Healthy />
       <ProductSlider />
       <Products />
+      <Footer />
     </>
   );
 }

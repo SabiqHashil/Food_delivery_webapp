@@ -64,3 +64,7 @@
     width: 300px;
     height: 200px;
 }
+
+.footer {
+    background-image: url('../assets/Images/footerbg.png');
+}
